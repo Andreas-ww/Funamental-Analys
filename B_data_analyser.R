@@ -87,15 +87,6 @@ for(j in 2:ncol(data_tids)){
 
 
 
-#Vinsttillväxt
-
-
-#Ebittillväxt
-
-
-#EBITDAtillväxt
-
-
 
 
 ###     ---     Visualisera historik      ---     ###
