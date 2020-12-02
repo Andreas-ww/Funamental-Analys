@@ -1,1 +1,1 @@
-# Funamental-Analys
+# Fundamental-Analys
