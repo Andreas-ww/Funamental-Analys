@@ -1,3 +1,5 @@
+library(shiny)
+
 ui <- fluidPage(
   sidebarLayout(
     sidebarPanel(
@@ -7,6 +9,7 @@ ui <- fluidPage(
       tags$hr(),
     ),
     mainPanel(
+      
       verbatimTextOutput("summary"),
       tableOutput("table")
     )
